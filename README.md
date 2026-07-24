@@ -203,3 +203,23 @@ Backend:
 Built for Digital Heroes Training Task
 
 https://digitalheroesco.com
+
+## AI Usage
+
+AI was used as a development assistant during this project.
+
+### How AI was used
+- Understanding the project requirements and planning the implementation.
+- Getting guidance on the FastAPI backend and React frontend structure.
+- Troubleshooting development issues, including testing, Git, GitHub, Render, and Vercel deployment.
+- Reviewing code quality and suggesting improvements.
+- Assisting with writing and organizing the README.
+
+### What I completed myself
+- Wrote and integrated the application code.
+- Implemented the frontend and backend.
+- Created and ran the test cases.
+- Deployed the backend on Render and the frontend on Vercel.
+- Verified the application's functionality and fixed issues during development.
+
+All AI-generated suggestions were reviewed, modified where necessary, and tested before being included in the final project.
