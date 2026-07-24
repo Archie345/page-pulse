@@ -12,7 +12,7 @@ export default function App() {
     setResult(null);
 
     try {
-      const response = await fetch("http://127.0.0.1:8000/audit", {
+      const response = await fetch( "https://page-pulse-k1as.onrender.com/audit", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
